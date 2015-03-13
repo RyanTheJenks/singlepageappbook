@@ -35,7 +35,7 @@ You need to install calibre first for the HTML to epub/mobi conversion.
 
 Many many thanks to jamesarosen and ahizzle for their help!
 
-# Licence
+# License
 
 This book is available for free, but what I've written remains mine.
 
